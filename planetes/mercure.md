@@ -14,5 +14,6 @@ Icone créée par [monkik](https://www.flaticon.com/authors/monkik) trouvée sur
   - Aphélie : 7 x 10<sup>7</sup> km
   - Périhélie : 4.6 x 10<sup>7</sup> km
   - Demi-grand axe : 5.8 x 10<sup>7</sup> km
+- Période de rotation: 58,645 8 jours
 - Symbole : &#x263F;
--Température : 300°C
+- Température : 300°C
