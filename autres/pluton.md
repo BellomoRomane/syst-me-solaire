@@ -2,7 +2,7 @@
 
 Pluton est une planète naine.
 
-![Icone de mercure](pluton.svg)
+![Icone de Pluton](pluton.svg)
 
 Icone créée par [monkik](https://www.flaticon.com/authors/monkik) trouvée sur [flaticon](https://www.flaticon.com/).
 
